@@ -3,7 +3,7 @@
 A static analysis toolkit for Android APK files. Built for mobile security researchers and penetration testers.
 
 **Author:** Uppula Abhiram — Mobile Security Researcher  
-**LinkedIn:** linkedin.com/in/abhiram-patel-09a778244 
+**LinkedIn:** https://linkedin.com/in/abhiram-patel-09a778244
 **Blog:** https://medium.com/@uppulaabhirampatel2601
 
 ---
