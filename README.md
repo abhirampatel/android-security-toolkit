@@ -1,5 +1,7 @@
 # Android Security Toolkit
 
+[![Featured by Awesome REA](https://raw.githubusercontent.com/reacher-z/Awesome-REA/477658fa73f6860e86cd1fc526657c2efdc25194/assets/featured-by-awesome-rea-inline.svg)](https://awesomerea.org/resources/android-security-toolkit/)
+
 A static analysis toolkit for Android APK files. Built for mobile security researchers and penetration testers.
 
 **Author:** Uppula Abhiram — Mobile Security Researcher  
